@@ -1,4 +1,4 @@
-//program to insert elements in a linked list at nth position, replace at nth position and display the list
+//program to insert elements in a linked list at nth position, replace at nth position and display the list using SLL
 
 import java.io.*;
 
