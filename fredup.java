@@ -1,4 +1,4 @@
-//to find frequency of elements in a linked list and delete duplicates and display the list by user choice
+//to find frequency of elements in a linked list and delete duplicates and display the list by user choice using SLL
 
 import java.io.*;
 
