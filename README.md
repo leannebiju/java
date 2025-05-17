@@ -1,2 +1,3 @@
-# java
-Java Programs according to CUSAT Syllabus BTech Computer Science 2019 Scheme
+# Java
+
+This repository contains the Java lab programs that need to be done in the 4th Semester for the completion of the BTech Computer Science at CUSAT according to the 2019 Scheme.
